@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...setting up repositories, managing branches, collaborating on projects
 - 🌱 I’m currently learning ... how to Create a Repository, Clone the Repository, Make Changes, Push Changes, Branching, Pull Requests
 - 💞️ I’m looking to collaborate on ... Projects, Fork the Repository, Clone the Fork, Create a Branch, Make Contributions, Push Changes, Submit a Pull Request
-- 📫 How to reach me ...heleneginter8@hotmail.com
+- 📫 How to reach me ...heleneginter530@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...A "Jiffy" Is an Actual Unit of Time: In computing, a jiffy is 1/100th of a second.
 
